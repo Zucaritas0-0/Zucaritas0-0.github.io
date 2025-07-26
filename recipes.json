@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Milanesas",
+    "time": 30,
+    "ingredients": ["Carne de res en filetes", "Pan molido", "Ajo en polvo", "Consomé en polvo", "Canela", "Leche", "Aceite"]
+  },
+  {
+    "name": "Picadillo",
+    "time": 35,
+    "ingredients": ["Carne molida", "Papas", "Zanahoria", "Jitomate", "Cebolla", "Ajo", "Aceite", "Sal", "Consomé"]
+  },
+  {
+    "name": "Sopa de Tortilla",
+    "time": 30,
+    "ingredients": ["Tortillas", "Jitomate", "Chile pasilla", "Ajo", "Caldo de pollo", "Aguacate", "Crema", "Queso", "Cilantro"]
+  },
+  {
+    "name": "Mole con Pollo",
+    "time": 60,
+    "ingredients": ["Pollo", "Pasta de mole", "Caldo de pollo", "Aceite", "Ajonjolí", "Arroz blanco"]
+  },
+  {
+    "name": "Tacos Dorados",
+    "time": 30,
+    "ingredients": ["Tortillas", "Pollo deshebrado", "Crema", "Lechuga", "Queso", "Salsa"]
+  },
+  {
+    "name": "Sopa Aguada",
+    "time": 25,
+    "ingredients": ["Pasta corta", "Aceite", "Jitomate", "Cebolla", "Ajo", "Agua", "Sal", "Consomé"]
+  },
+  {
+    "name": "Alitas",
+    "time": 45,
+    "ingredients": ["Alitas de pollo", "Salsa BBQ o picante", "Ajo", "Pimienta", "Aceite"]
+  },
+  {
+    "name": "Tortas",
+    "time": 20,
+    "ingredients": ["Bolillos", "Jamón", "Queso", "Lechuga", "Tomate", "Mayonesa", "Aguacate"]
+  },
+  {
+    "name": "Bisteces en Salsa",
+    "time": 40,
+    "ingredients": ["Bisteces de res", "Salsa roja", "Cebolla", "Aceite", "Ajo", "Sal"]
+  },
+  {
+    "name": "Ensalada Rusa",
+    "time": 25,
+    "ingredients": ["Papas", "Zanahorias", "Chícharos", "Mayonesa", "Sal"]
+  },
+  {
+    "name": "Huevo en salsa con queso",
+    "time": 20,
+    "ingredients": ["Huevos", "Salsa roja", "Queso fresco", "Aceite", "Sal"]
+  },
+  {
+    "name": "Filete de pescado",
+    "time": 25,
+    "ingredients": ["Filete de pescado", "Limón", "Ajo", "Pimienta", "Aceite"]
+  },
+  {
+    "name": "Pollo en salsa roja",
+    "time": 40,
+    "ingredients": ["Pollo", "Jitomate", "Cebolla", "Ajo", "Aceite", "Sal"]
+  },
+  {
+    "name": "Pollo en crema con champiñones",
+    "time": 45,
+    "ingredients": ["Pollo", "Champiñones", "Crema", "Cebolla", "Ajo", "Aceite"]
+  },
+  {
+    "name": "Enchiladas",
+    "time": 35,
+    "ingredients": ["Tortillas", "Salsa roja o verde", "Pollo", "Queso", "Crema", "Cebolla"]
+  },
+  {
+    "name": "Ensalada de Atún",
+    "time": 20,
+    "ingredients": ["Atún", "Mayonesa", "Verduras cocidas", "Lechuga", "Sal", "Limón"]
+  },
+  {
+    "name": "Bisteces en adobo con nopales",
+    "time": 50,
+    "ingredients": ["Bisteces de res", "Nopales", "Adobo", "Ajo", "Cebolla", "Aceite"]
+  },
+  {
+    "name": "Papas a la francesa",
+    "time": 25,
+    "ingredients": ["Papas", "Aceite", "Sal"]
+  },
+  {
+    "name": "Pozole",
+    "time": 90,
+    "ingredients": ["Maíz para pozole", "Carne de cerdo o pollo", "Ajo", "Cebolla", "Chile", "Orégano", "Lechuga", "Rábanos", "Limón"]
+  },
+  {
+    "name": "Tacos de arroz",
+    "time": 30,
+    "ingredients": ["Tortillas", "Arroz cocido", "Queso", "Salsa", "Aceite"]
+  },
+  {
+    "name": "Pollo rostizado",
+    "time": 60,
+    "ingredients": ["Pollo entero", "Ajo", "Pimienta", "Hierbas", "Aceite", "Sal"]
+  },
+  {
+    "name": "Salpicón de res",
+    "time": 45,
+    "ingredients": ["Carne cocida y desmenuzada", "Jitomate", "Cebolla", "Rábanos", "Lechuga", "Aguacate", "Chiles en vinagre", "Aceite de oliva", "Jugo de limón", "Consomé"]
+  }
+]
